@@ -8,6 +8,8 @@
 
 <!----- END GHOST DOCS BADGES ----->
 
+🔭 Library for Svelte to make Promise status easily observable from outside
+
 ## [Demo](https://svelte-observer.jill64.dev)
 
 <!----- END GHOST DOCS HEADER ----->
