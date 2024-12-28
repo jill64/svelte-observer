@@ -4,9 +4,11 @@
 
 <!----- BEGIN GHOST DOCS BADGES ----->
 
-<a href="https://github.com/jill64/svelte-observer/actions/workflows/ci.yml"><img src="https://github.com/jill64/svelte-observer/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a>
+<a href="https://github.com/jill64/svelte-observer/actions/workflows/ci.yml"><img src="https://github.com/jill64/svelte-observer/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a> <a href="https://svelte-observer.jill64.dev"><img src="https://img.shields.io/website?up_message=working&down_message=down&url=https%3A%2F%2Fsvelte-observer.jill64.dev" alt="website" /></a>
 
 <!----- END GHOST DOCS BADGES ----->
+
+## [Demo](https://svelte-observer.jill64.dev)
 
 <!----- END GHOST DOCS HEADER ----->
 
