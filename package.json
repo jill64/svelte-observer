@@ -42,7 +42,7 @@
     "@sveltejs/kit": "2.15.1",
     "svelte": "5.16.2",
     "typescript": "5.7.2",
-    "vite": "6.0.7",
+    "vite": "6.0.8",
     "@sveltejs/vite-plugin-svelte": "5.0.3"
   },
   "homepage": "https://github.com/jill64/svelte-observer#readme",
@@ -55,7 +55,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-observer.git",
-    "image": "https://opengraph.githubassets.com/39b8e86e38d957368882ff0528d027fe715758e353588f1dc716a19e2e5db502/jill64/svelte-observer"
+    "image": "https://opengraph.githubassets.com/cea2e246f1513cc26a120953b4ab1582e0b087faf362aa5221e6ae32ca97991b/jill64/svelte-observer"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-observer/issues",
