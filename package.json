@@ -36,7 +36,7 @@
     "@jill64/universal-sanitizer": "1.4.0",
     "@jill64/playwright-config": "2.4.2",
     "@jill64/prettier-config": "1.0.0",
-    "@jill64/sentry-sveltekit-cloudflare": "2.0.5",
+    "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
     "@playwright/test": "1.49.1",
     "@sveltejs/adapter-cloudflare": "5.0.1",
     "@sveltejs/kit": "2.15.1",
@@ -55,7 +55,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-observer.git",
-    "image": "https://opengraph.githubassets.com/bca233c614f4a8e0404a3f795d6fed78507d3b820458c66832a88b55f121c747/jill64/svelte-observer"
+    "image": "https://opengraph.githubassets.com/b051965a7c5b646904b0b79b5b0d6ee3f34f103304c57520ba38fc0264e69c6c/jill64/svelte-observer"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-observer/issues",
