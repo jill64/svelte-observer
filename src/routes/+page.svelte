@@ -4,9 +4,11 @@
   import { code } from './code'
 
   const wait1Sec = async () => {
+    // eslint-disable-next-line no-undef
     await new Promise((resolve) => setTimeout(resolve, 1000))
   }
   const wait1SecThrow = async () => {
+    // eslint-disable-next-line no-undef
     await new Promise((resolve) => setTimeout(resolve, 1000))
     throw new Error('Expected Error')
   }
