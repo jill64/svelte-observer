@@ -38,7 +38,7 @@
     "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
     "@playwright/test": "1.51.0",
     "@sveltejs/adapter-cloudflare": "5.0.3",
-    "@sveltejs/kit": "2.19.0",
+    "@sveltejs/kit": "2.19.1",
     "svelte": "5.23.0",
     "typescript": "5.8.2",
     "vite": "6.2.2",
@@ -54,7 +54,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-observer.git",
-    "image": "https://opengraph.githubassets.com/61806b7d55ca5e8f9ead7235c176cfb142b0266f6417ca21323d4f452304f3ab/jill64/svelte-observer"
+    "image": "https://opengraph.githubassets.com/28a5bf2b010b3de10eb826b41ba3062f219478f77d1eb7968e581d0fff531df4/jill64/svelte-observer"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-observer/issues",
