@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@jill64/eslint-config-svelte": "2.2.9",
-    "@jill64/npm-demo-layout": "2.0.21",
+    "@jill64/npm-demo-layout": "2.0.22",
     "@jill64/playwright-config": "3.0.0",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
@@ -54,7 +54,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-observer.git",
-    "image": "https://opengraph.githubassets.com/1f85b2b4f127a180ea38d41350366f47b68f1928907cc21e29d3303b53fbbfcf/jill64/svelte-observer"
+    "image": "https://opengraph.githubassets.com/90c489d601a3c9b93eafa06ef7ee77db528a6b5ffe53153ee25b9940057178ed/jill64/svelte-observer"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-observer/issues",
