@@ -54,7 +54,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-observer.git",
-    "image": "https://opengraph.githubassets.com/b770ef30ca027a4eef5cb926ff2dbe2d2e544a2716c3754e9efffe3e30d05960/jill64/svelte-observer"
+    "image": "https://opengraph.githubassets.com/8cd3541bd7e4d291b837cd4fcfc82d0671f40b11a736af1fa99a163cecfa0bd4/jill64/svelte-observer"
   },
   "license": "MIT",
   "bugs": "https://github.com/jill64/svelte-observer/issues",
